@@ -14,4 +14,4 @@ while mais != 0:
         cont += 1
     print('PAUSA')
     mais = int(input('Quantos termos voce quer mostrar a mais? '))
-print('Progressao finalzada com {} termos mostrados.'.format(total))
+print('Progressao finalizada com {} termos mostrados.'.format(total))
